@@ -1,0 +1,2 @@
+This is the Secon GitHub file
+Pusing the code into the Github through Commands

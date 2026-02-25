@@ -1,2 +1,6 @@
-This is the Secon GitHub file
-Pusing the code into the Github through Commands
+
+This is second github file
+Trying to pushing the secon file into the github repo.
+
+
+

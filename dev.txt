@@ -1,0 +1,4 @@
+This is a dev file
+Pushing into github
+To get the merge conflict adding this code
+Intentionally I am changing the code
